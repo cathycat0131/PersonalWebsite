@@ -1,2 +1,2 @@
-# personalwebsite
+# CathyChen-PersonalWebsite
 Personal Website
