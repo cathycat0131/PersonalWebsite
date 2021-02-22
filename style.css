@@ -135,6 +135,7 @@ footer a:hover {
     height: 80%;
     opacity: 0.9;
 }
+
 #commentGif{
 	width: 100%;
 }
@@ -159,6 +160,7 @@ html {
 .container {
     padding: 20px 20px;
     background-image: linear-gradient(#fffafa, #ffe4e1);
+    width: 100%;
 }
 
 .thumbnail img{
