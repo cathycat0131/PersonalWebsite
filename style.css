@@ -97,6 +97,9 @@ html {
     transition: .2s;
 }
 
+#commentGif{
+	width: 50%;
+}
 .btn a{
 	color: #fff;
 }
