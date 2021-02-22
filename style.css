@@ -135,10 +135,30 @@ footer a:hover {
     height: 80%;
     opacity: 0.9;
 }
+#commentGif{
+	width: 100%;
+}
+.btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #f1f1f1;
+    border-radius: 0;
+    transition: .2s;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.btn:hover, .btn:focus {
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #000;
+}
 
 .container {
+    padding: 20px 20px;
     background-image: linear-gradient(#fffafa, #ffe4e1);
-    width: 100%
 }
 
 .thumbnail img{
