@@ -123,6 +123,10 @@ footer a:hover {
     text-decoration: none;
 }  
 
+.bg-1 h3 {color: #fff;}
+
+.bg-1 p {font-style: italic;}
+
 @media (max-width: 800px){
 .person {
     margin-bottom: 25px;
