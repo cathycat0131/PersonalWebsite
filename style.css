@@ -1,7 +1,7 @@
 #myPage{
    font: 400 18px/1.8 Lato, sans-serif;
    scroll-behavior: smooth;
-   background-image: linear-gradient(#fffafa, #ffe4e1);
+   background-image: url("Images/PinkBackground.gif")
 }
 
 .title{
