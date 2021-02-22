@@ -137,8 +137,8 @@ footer a:hover {
 }
 
 .container {
-    padding: 30px 20px;
     background-image: linear-gradient(#fffafa, #ffe4e1);
+    width: 100%
 }
 
 .thumbnail img{
