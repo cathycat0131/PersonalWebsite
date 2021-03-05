@@ -71,6 +71,7 @@ html {
 
 .thumbnail {
     padding: 0 0 15px 0;
+    box-shadow: 4px 4px 3px #999;
     border: none;
     transition: 100ms linear;
  }
