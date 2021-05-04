@@ -31,6 +31,17 @@ padding: 16px;
   transition: 0.2s;
 }
 
+.intro{
+  padding: 30px;
+  margin: 30px 280px 30px 280px;
+}
+
+.intro p{
+  font-size: 18px;
+  color: #555;
+  font: 200 18px/1.8 Lato, sans-serif;
+  text-align: center;
+}
 
 
 h2{
@@ -155,7 +166,7 @@ footer a:hover {
 
 .bg-1 h3 {color: #fff;}
 
-.bg-1 p {font-style: italic;}
+.bg-1 p {font-style: normal;}
 
 @media (max-width: 800px){
 .person {
@@ -163,6 +174,16 @@ footer a:hover {
     width: 80%;
     height: 80%;
     opacity: 0.9;
+}
+
+.intro{
+  padding: 5px;
+  margin: 50px 30px 50px 30px ;
+}
+
+.intro p{
+  text-align: left;
+
 }
 
 .modal-header, .modal-body {
@@ -192,7 +213,7 @@ html {
 
 .container {
     padding: 20px 20px;
-    background-image: linear-gradient(#fffafa, #ffe4e1);
+    background-color:white;
     width: 100%;
 }
 
